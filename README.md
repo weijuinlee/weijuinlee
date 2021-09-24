@@ -1,4 +1,4 @@
-I’m a software engineer working to help develop applications for the public and private sector. My expertise includes IoT, cloud computing, robotics, and unmanned aerial vehicle technology. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. Currently, I’m seeking opportunities that will allow me to develop and promote technologies that benefit digitalization and optimization.
+I’m a ex-software engineer working to help develop applications for the public and private sector. My expertise includes IoT, cloud computing, robotics, and unmanned aerial vehicle technology. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. Currently, I’m seeking opportunities that will allow me to develop and promote technologies that benefit digitalization and optimization.
 
 I usually like to work with data science, machine learning, optimization/mathematical-programming, or similar fields, however I am *agnostically curious* when it comes to computers, mathematics, and computer science and am happy to collaborate on projects across any of those disciplines. 
 
