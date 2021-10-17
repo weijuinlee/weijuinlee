@@ -2,9 +2,9 @@ I’m currently a student at The University of Edinburgh and an ex-software engi
 
 I usually like to work with data science, machine learning, optimization/mathematical-programming, or similar fields, however I am *agnostically curious* when it comes to computers, mathematics, and computer science and am happy to collaborate on projects across any of those disciplines. 
 
-When not behind the keyboard, you can catch me out rock climbing 🧗‍, biking, reading or spending some sort of time with friends and loved ones. 
+When not behind the keyboard, you can catch me out 🧗‍, 🚴, reading or spending some sort of time with friends and loved ones. 
 
- > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties. 😊
+ > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties 😊
 
  <p><a href="https://twitter.com/weijuinlee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/leeweijuin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@leeweijuin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
