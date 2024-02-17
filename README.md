@@ -1,8 +1,6 @@
-I’m currently a student at The University of Edinburgh and an ex-software engineer where I helped develop applications for the public and private sector. My expertise includes IoT, cloud computing, robotics, and unmanned aerial vehicle technology. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. Currently, I’m seeking opportunities that will allow me to develop and promote technologies that benefit digitalization and optimization.
+I’m currently a student at The University of Edinburgh, a software engineer where I helped develop applications for the public and private sector, and Co-Founder of Kuhaku. My expertise includes IoT, cloud computing, robotics, and unmanned aerial vehicle technology. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I usually like to work with data science, machine learning, optimization/mathematical programming, or similar fields, however, I am *agnostically curious* when it comes to computers, mathematics, and computer science and am happy to collaborate on projects across any of those disciplines. 
 
-I usually like to work with data science, machine learning, optimization/mathematical-programming, or similar fields, however I am *agnostically curious* when it comes to computers, mathematics, and computer science and am happy to collaborate on projects across any of those disciplines. 
-
-When not behind the keyboard, you can catch me out 🧗‍, 🚴, reading or spending some sort of time with friends and loved ones. 
+When not behind the keyboard, you can catch me out 🧗‍, 🚴, reading, or spending some sort of time with friends and loved ones. 
 
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties 😊
 
