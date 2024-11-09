@@ -4,7 +4,7 @@ When not behind the keyboard, you can catch me out 🧗‍, 🚴, reading, or sp
 
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties 😊
 
- <p><a href="[https://twitter.com/weijuinlee](https://x.com/weijuinlee)" target="_blank"><img alt="X" src="https://img.shields.io/twitter/follow/:user
+ <p><a href="[https://twitter.com/weijuinlee](https://x.com/weijuinlee)" target="_blank"><img alt="X" src="https://img.shields.io/twitter/follow/:weijuinlee
 " /></a><a href="https://www.linkedin.com/in/leeweijuin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@leeweijuin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
