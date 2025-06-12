@@ -1,6 +1,6 @@
 I’m an AI engineer and an alumnus of The University of Edinburgh, the Founder of CloudSIG and Co-Founder of Kuhaku, driven by a passion for building impactful technology. My expertise spans full-stack and mobile development, cybersecurity, data protection, DevOps, and cloud computing. I thrive on generating innovative ideas and crafting practical solutions to complex challenges in both the private and public sectors. Known for my technical proficiency and resourcefulness, I maintain a proactive, problem-solving mindset, even in high-pressure environments. I'm always seeking opportunities to develop and promote emerging technologies that drive efficiency and innovation. My key areas of interest include Maritech, Fintech, Machine Learning, Edge Computing, and Quantum Computing.
 
-When not behind the keyboard, you can catch me out 🧗‍, 🏄🏻, 🛹, 📚!
+When not behind the keyboard, you can catch me out 🧗‍ , 🏄🏻 , 🏂 , 🛹 !
 
  > Reach out, it would be great to hear from yo,u and maybe we could even develop some good personal or professional ties 😊
 
